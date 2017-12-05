@@ -1,6 +1,6 @@
-# Electron-React-Template
+# Create-Electron-React-App
 
-Uses Electron-Builder and Create-React-App projects to create an Electron-React Template.
+Bundles Create-React-App with Electron-Builder to create an Electron React App Template.
 
 Used [this](https://flaviocopes.com/javascript-create-react-app-electron/) guide as the start point.
 
