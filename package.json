@@ -1,16 +1,24 @@
 {
   "name": "create-electron-react-app",
   "version": "0.1.0",
+  "description": "create-react-app and electron-builder template project",
   "private": true,
   "homepage": "./",
   "main": "src/start.js",
   "author": "Herm Wong",
   "homepage": "https://github.com/hermwong/create-electron-react-app",
   "license": "MIT",
+  "preferGlobal": true,
   "repository" : {
     "type": "git",
-    "url": "https://github.com/hermwong/create-electron-react-app.git",
+    "url": "git://github.com/hermwong/create-electron-react-app.git"
   },
+  "keywords": [
+    "electron",
+    "electron-builder",
+    "react",
+    "create-react-app"
+  ],
   "dependencies": {
     "electron": "^1.7.5",
     "eslint": "^4.5.0",
