@@ -4,8 +4,11 @@ Bundles Create-React-App with Electron-Builder to create an Electron React App T
 
 Used [this](https://flaviocopes.com/javascript-create-react-app-electron/) guide as the start point.
 
+
+
 # Running the app
 
 1. clone the repository
-2. `yarn install`
-3. `yarn start`
+1. `yarn global add foreman`
+1. `yarn install`
+1. `yarn start`
